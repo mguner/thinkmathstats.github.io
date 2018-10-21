@@ -151,6 +151,7 @@ syntax_highlighting: true # include the css for syntax highlighting
 
 # Build settings
 markdown: kramdown
+mathjax: true
 # theme: minima
 permalink: pretty
 plugins:
