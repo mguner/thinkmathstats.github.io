@@ -3,6 +3,7 @@ layout: post
 title:  "Variance - Bias Tradeoff"
 date:   2018-10-20 22:00:00 +0000
 image: /assets/images/twoscreen.jpg
+
 ---
 In this blog, we will discuss the following equation which is famously known as bias-variance trade-off. 
 
