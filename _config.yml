@@ -10,7 +10,7 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
+project_one: "Transfer Market Values of Soccer Players"
 project_one_description: This is my project for the data incubator fellowship.
 project_one_url: https://github.com/mguner/Data-Incubator
 project_one_icon: assets/images/startup2.jpg
