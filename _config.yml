@@ -1,9 +1,8 @@
-title: ThinkMathStats
-name: Murat - Emre
+title: LearnThinkShare
+name: Murat - Emre - Goker
 email: your-email@example.com
-description: Awesome description because we are awesome.
-
-baseurl: /thinkmathstats
+description: Welcome to GEM-website. Here we learn, we think, we share.
+baseurl: /learnthinkshare
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
